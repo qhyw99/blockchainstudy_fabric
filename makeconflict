@@ -1,1 +1,6 @@
 make the local repository different with remote(github) repository
+base->commit a fileA    local repository
+git add a fileB
+base->commit a fileC    remote repository
+merge the branch from remoteR
+if fileB lost?
