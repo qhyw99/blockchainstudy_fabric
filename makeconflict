@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 modified make the local repository different with remote(github) repository
+=======
+make the local repository different with remote(github) repository
+base->commit a fileA    local repository
+git add a fileB
+base->commit a fileC    remote repository
+merge the branch from remoteR
+if fileB lost?
+>>>>>>> 3e031568212416eb7d224f41993073ff0b1bd38d
+commit the final result :)
